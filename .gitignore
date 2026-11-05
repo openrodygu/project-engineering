@@ -1,0 +1,14 @@
+# Obsidian user state
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
+
+# Obsidian trash
+.trash/
+**/.trash/
+
+# Sync conflicts
+*.conflict-*.md
+
+# OS files
+.DS_Store
+Thumbs.db

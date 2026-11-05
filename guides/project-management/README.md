@@ -1,0 +1,90 @@
+# Project management
+
+Plan work in small, visible pieces so the team knows what done means and what happens next.
+
+## Do this now
+
+Take 15–30 minutes and produce three artifacts. You can do this with any notes app, but the steps below use the workspace tools.
+
+1. **Write a one-page project brief.** Open `local-project/pm-vault/` in Obsidian. Use the **Project manager** pane to create a project, then put this in the project’s **Description** field:
+
+   ```markdown
+   **Goal:** What changes if this succeeds?
+
+   **Definition of done:**
+   - ...
+   - ...
+
+   **In scope:** ...
+   **Out of scope:** ...
+   **Stakeholders:** decision maker, contributors, affected people.
+   ```
+
+   Keep it to one screen. A brief you cannot read in a minute is not a brief.
+
+2. **Create a small dotpm project with three tasks.** Use dotpm, the first team PM tool in this workspace. In the same project, add three tasks:
+
+   - `Draft project brief`
+   - `Review brief with stakeholder`
+   - `Publish the plan`
+
+   Give each one an assignee, a status, and a due date. Set a priority only where the consequence is real.
+
+3. **Create one personal next action.** Open `local-project/personal-project-notes/` and add one TaskNotes task: the next physical action you will take. Schedule it for today. TaskNotes is the first personal PM tool here.
+
+You now have a team-facing plan and one personal action. That small loop is the whole skill in miniature.
+
+## What it is
+
+Project management is a loop, not a document:
+
+1. Define the outcome and what done means.
+2. Break the outcome into small pieces.
+3. Prioritize the pieces.
+4. Estimate and sequence them.
+5. Execute and track reality.
+6. Review, adjust, and close.
+
+The loop repeats. A plan that never changes is usually a plan nobody is using.
+
+The brief is the anchor. Tasks are the work. Status is the truth. Review is what keeps the three connected.
+
+## Go deeper
+
+Core chapters:
+
+- [04 Planning and scheduling](04-planning-and-scheduling.md)
+- [06 Communication](06-communication.md)
+- [08 Execution and metrics](08-execution-and-metrics.md)
+- [09 Closing](09-closing.md)
+
+Optional chapters:
+
+- [01 Foundations](01-foundations.md)
+- [02 Lifecycle](02-lifecycle.md)
+- [03 Scope and stakeholders](03-scope-and-stakeholders.md)
+- [05 Risk and issues](05-risk-and-issues.md)
+- [07 Knowledge and decisions](07-knowledge-and-decisions.md)
+
+Read the core four first if you have a live project. The optional chapters answer specific questions.
+
+## Where this fits
+
+- Team plan and task board: `local-project/pm-vault/`
+- Personal execution: `local-project/personal-project-notes/` (optional)
+- Templates: [Team vault](../../templates/team-vault/) and [Personal vault](../../templates/personal-vault/)
+- Workspace layout: [Project workspace](../../templates/project-workspace/README.md)
+- System view: [Handbook](../../handbook/README.md)
+- Skill catalog: [Skill catalog](../README.md)
+
+## Common mistakes
+
+- **Writing a brief nobody can finish.** If the definition of done is vague, every task is arguable.
+- **Creating tasks with no owner or date.** That is a wish list, not a plan.
+- **Treating the tool as the process.** dotpm stores the plan. It does not decide what matters.
+- **Keeping two copies of one commitment.** The team vault is authoritative for team work. The personal vault is for your execution.
+- **Never reviewing.** A stale board is worse than no board because people trust it.
+
+## Next skill
+
+[Git](../git/) — put the project source under version control.
