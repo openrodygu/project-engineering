@@ -78,6 +78,7 @@ Keep the quick start first. Depth comes later.
 - Avoid “implement,” “impose,” “mandate,” and “enforce.”
 - Keep headings short.
 - Use standard Markdown links so GitHub renders them.
+- Link to a file (`README.md` or `_README.md`), never to a folder. Obsidian treats a folder link as a new note and creates an empty file.
 - Use Obsidian wikilinks only inside the vault templates.
 
 ## Local-first rule
@@ -91,6 +92,7 @@ If a skill mentions the workspace, say something like:
 ## Before opening a PR
 
 - Check that relative links resolve.
+- Check that no link targets a folder; link to its `README.md` instead.
 - Check that no secrets, tokens, or internal data were added.
 - Check that the quick start still produces an artifact.
 - Check that the skill still works without the other skills.
