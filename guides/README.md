@@ -25,7 +25,7 @@ Each skill has the same shape:
 5. **Common mistakes** — what to avoid.
 6. **Next skill** — a suggested follow-up, not a requirement.
 
-You can stop after **Do this now**.
+You can stop after **Do this now**. Most quick starts work in any notes app; the Obsidian version is optional and uses the templates.
 
 ## Recommended order
 

@@ -43,7 +43,7 @@ Obsidian disables community plugins in **Restricted mode**. To use dotpm or Task
 2. Turn off **Restricted mode**.
 3. Browse or enable the plugin you need.
 
-The shared vault already has dotpm installed. Your personal vault needs TaskNotes installed. See [[dotpm-Guide]] and [[TaskNotes-Guide]].
+The shared vault template already has dotpm installed. The personal vault template already has TaskNotes installed. See [[dotpm-Guide]] and [[TaskNotes-Guide]].
 
 ---
 

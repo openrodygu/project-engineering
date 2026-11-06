@@ -16,13 +16,17 @@ All templates are sanitized. They contain a generic `Example Project`, placehold
 
 To read the handbook itself in Obsidian, open the repo root folder as a vault. The vault templates below are separate vaults. New to Obsidian? See [Obsidian basics](../guides/obsidian/00-obsidian-basics.md).
 
+Templates require Obsidian. The handbook itself does not.
+
 | Team vault (dotpm) | Personal vault (TaskNotes) |
 | --- | --- |
 | <img src="../assets/dotpm-dashboard.png" alt="dotpm team dashboard" width="420"> | <img src="../assets/tasknotes-demo.gif" alt="TaskNotes personal task views" width="420"> |
 
-Screenshots from the [dotpm](https://github.com/dotpm/obsidian-pm) and [TaskNotes](https://github.com/callumalpass/tasknotes) projects, both MIT licensed.
+These are the plugins’ own demo screenshots, not this repo’s Example Project. Both projects are MIT licensed.
 
 ### 1. Open a vault
+
+**Download only (no Git):** [download the handbook ZIP](https://github.com/openrodygu/project-engineering/archive/refs/heads/main.zip), extract it, and copy the template folder you want into a workspace folder. Then open the copy in Obsidian.
 
 Copy `team-vault/` and/or `personal-vault/` into a workspace folder. Copy the whole folder, including the hidden `.obsidian` directory.
 
@@ -72,7 +76,7 @@ The workspace template is a README only. It shows a structure and explains why a
 ## Requirements
 
 - Obsidian **1.13 or newer** (dotpm requires 1.13; TaskNotes requires 1.12.2+).
-- Desktop or mobile.
+- Desktop for setup. Template setup copies a hidden `.obsidian` folder; use a desktop file manager. Mobile can open a vault after it is set up.
 - No accounts, databases, or external services.
 
 ---

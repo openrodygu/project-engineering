@@ -1,11 +1,11 @@
 # Start Here
 
-A 15-minute orientation. You do not need to read the whole repo first.
+A short orientation. Browsing takes about 5 minutes; a skill quick start takes 15–30 minutes.
 
 ## 0. Access the handbook
 
 - **Browser:** read here. Use the file list or the links on each page.
-- **Obsidian:** install Obsidian, clone or download this repo, then choose **Open folder as vault** and select the repo folder.
+- **Obsidian:** install Obsidian, get the files in step 2, then choose **Open folder as vault** and select the folder.
 
 New to Obsidian? [Obsidian basics](guides/obsidian/00-obsidian-basics.md) covers install, setup, and use.
 
@@ -14,22 +14,24 @@ Then continue with step 1.
 ## 1. Choose your path
 
 - **Browse** — keep reading. No setup.
-- **Learn** — clone the repo and do one skill quick start.
+- **Learn** — get the files and do one skill quick start.
 - **Adopt** — copy a template or practice into your own workspace.
 - **Contribute** — fork, branch, and open a pull request. Optional.
 
-## 2. Get the repo
+## 2. Get the files
 
 If you are reading in the browser, skip this step.
 
-If you use Git:
+**Download only (no Git):** [download the ZIP](https://github.com/openrodygu/project-engineering/archive/refs/heads/main.zip) and extract it. To use the templates, copy a template folder out and open the copy in Obsidian.
+
+**With Git:**
 
 ```sh
 git clone https://github.com/openrodygu/project-engineering.git
 cd project-engineering
 ```
 
-If you do not use Git yet, download the ZIP from GitHub. The [Git skill](guides/git/) will teach clone later.
+The [Git skill](guides/git/) will teach clone later.
 
 To read the handbook in Obsidian, open the cloned or extracted repo folder as a vault. See [Obsidian basics](guides/obsidian/00-obsidian-basics.md).
 
@@ -49,11 +51,9 @@ hosted-service/                 # GitHub, not a local folder
 
 Then:
 
-1. Copy the contents of `templates/team-vault/` into `local-project/pm-vault/`, including the hidden `.obsidian` folder.
+1. Copy the contents of `templates/team-vault/` into `local-project/pm-vault/`, including the hidden `.obsidian` folder. Use a desktop file manager.
 2. Copy the contents of `templates/personal-vault/` into `local-project/personal-project-notes/`, including the hidden `.obsidian` folder.
-3. Run `git init` inside `local-project/source/`.
-
-If you are not using Git yet, skip step 3 and read the [Git skill](guides/git/) first.
+3. If you use Git, run `git init` inside `local-project/source/`. If you do not, skip this line; you do not need Git for the exercises.
 
 The full structure is explained in [templates/project-workspace/README.md](templates/project-workspace/README.md). You can use any folder names you like.
 

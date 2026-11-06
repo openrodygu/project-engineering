@@ -7,8 +7,8 @@ title: Define Scope
 type: task
 status: in-progress
 priority: high
-start: 2026-01-05
-due: 2026-01-09
+start: 2026-11-09
+due: 2026-11-13
 progress: 25
 assignees:
   - Alice
@@ -19,8 +19,8 @@ subtaskIds:
   - "[[build-prototype|Build Prototype]]"
   - "[[write-summary|Write Summary]]"
 dependencies: []
-createdAt: "2026-01-01T00:00:00.000Z"
-updatedAt: "2026-01-01T00:00:00.000Z"
+createdAt: "2026-11-01T00:00:00.000Z"
+updatedAt: "2026-11-01T00:00:00.000Z"
 ---
 
 Write the scope and acceptance criteria for the example project.

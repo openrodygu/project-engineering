@@ -8,8 +8,8 @@ taskIds: ["[[define-scope|Define Scope]]"]
 customFields: []
 teamMembers: ["Alice", "Bob", "Carol", "Dave"]
 savedViews: []
-createdAt: "2026-01-01T00:00:00.000Z"
-updatedAt: "2026-01-01T00:00:00.000Z"
+createdAt: "2026-11-01T00:00:00.000Z"
+updatedAt: "2026-11-01T00:00:00.000Z"
 ---
 
 # lucide-activity-square Example Project

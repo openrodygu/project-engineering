@@ -6,8 +6,11 @@ Notable changes to this repo. Dates are `YYYY-MM-DD`.
 
 - Add a beginner access path: read in the browser or open the repo in Obsidian.
 - Add [Obsidian basics](guides/obsidian/00-obsidian-basics.md).
+- Make the project management and self-management quick starts work in a browser or any notes app.
+- Add a download-only (no Git) path to the templates.
 - Add a repo map and "What this is not" to the README.
 - Add dotpm and TaskNotes screenshots.
+- Refresh the Example Project dates.
 - Add contributor notes for the protected `main` branch and Discussions.
 - Add issue-template contact links.
 

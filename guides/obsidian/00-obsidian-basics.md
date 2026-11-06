@@ -193,7 +193,7 @@ One note per task keeps conflicts rare, because two tasks are two files.
 
 ## Where to go next
 
-- [START-HERE.md](../../START-HERE.md) — the 15-minute orientation.
+- [START-HERE.md](../../START-HERE.md) — the short orientation.
 - [01 Vaults and the two-vault model](01-vaults-and-the-two-vault-model.md) — why team and personal work stay separate.
 - [02 Opening the templates](02-opening-the-templates.md) — copy and open the team and personal vaults.
 - [03 Markdown and notes](03-markdown-and-notes.md) — a little more Markdown.
