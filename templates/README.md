@@ -24,11 +24,11 @@ Templates require Obsidian. The handbook itself does not.
 
 These are the plugins’ own demo screenshots, not this repo’s Example Project. Both projects are MIT licensed.
 
-### 1. Open a vault
+### 1. Get a vault
 
-**Download only (no Git):** [download the handbook ZIP](https://github.com/openrodygu/project-engineering/archive/refs/heads/main.zip), extract it, and copy the template folder you want into a workspace folder. Then open the copy in Obsidian.
+**Fastest path:** download [team-vault.zip](../downloads/team-vault.zip) or [personal-vault.zip](../downloads/personal-vault.zip), extract it, and open the extracted folder as a vault in Obsidian. The ZIP includes the plugin setup.
 
-Copy `team-vault/` and/or `personal-vault/` into a workspace folder. Copy the whole folder, including the hidden `.obsidian` directory.
+**From the repo:** [download the handbook ZIP](https://github.com/openrodygu/project-engineering/archive/refs/heads/main.zip), extract it, and copy `templates/team-vault/` or `templates/personal-vault/` into a workspace folder. Copy the whole folder, including the hidden `.obsidian` directory.
 
 ```text
 local-project/
@@ -36,11 +36,22 @@ local-project/
 └── personal-project-notes/     # copy of personal-vault
 ```
 
-In Obsidian, choose **Open folder as vault** and select one of the copies.
+If you are copying folders on Windows, turn on **View → Show → Hidden items** first. On macOS, press `Cmd+Shift+.` in Finder.
 
-### 2. Trust the vault
+### 2. Open and trust the vault
 
-Trust the author and enable community plugins.
+In Obsidian, choose **Open folder as vault** and select the folder.
+
+Obsidian asks you to trust the vault because it includes two community plugins: dotpm and TaskNotes. Trusting it lets them run. The templates are plain Markdown; you can inspect them before you open them.
+
+**Zero-trust option.** If you do not want to run the bundled plugins:
+
+1. Extract the ZIP or copy the folder.
+2. Delete `.obsidian/plugins/` (or open the vault in Restricted mode).
+3. Open the folder as a vault.
+4. Install dotpm or TaskNotes yourself from **Settings → Community plugins → Browse**.
+
+The Markdown guides still work without the plugins. You lose the board and task views until you install them.
 
 ### 3. Open the README
 

@@ -4,7 +4,7 @@ Run your own work so the team does not have to manage it for you.
 
 ## Do this now
 
-15–20 minutes. You will finish with tomorrow's plan. Start with any notes app. The Obsidian version is optional.
+15–20 minutes. You will finish with tomorrow's plan. Start with any notes app or paper. The Obsidian version is optional. If you only have five minutes, do steps 1–3.
 
 ### Browser or notes-app version (no setup)
 

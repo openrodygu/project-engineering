@@ -12,7 +12,7 @@ It is for anyone who wants a clearer way to run a solo project, a small team, or
 
 ### 1. Read in the browser
 
-Open [START-HERE.md](START-HERE.md) and follow the links. No setup. Markdown renders on GitHub. Links written as `[[Note]]` live inside `templates/` and only work when that folder is open in Obsidian.
+Open [START-HERE.md](START-HERE.md) and follow the links. No setup. Markdown renders on GitHub. Some links inside `templates/` only work when that folder is open in Obsidian.
 
 ### 2. Try one skill
 
@@ -20,13 +20,15 @@ Open [guides/README.md](guides/README.md) and pick one. Each quick start takes 1
 
 ### 3. Use the templates (optional)
 
-The templates are Obsidian vaults (a folder of notes). You do not need Git.
+The templates are Obsidian vaults (a folder of notes). You need Obsidian on a laptop; you do not need Git.
 
-1. Download the handbook: [ZIP](https://github.com/openrodygu/project-engineering/archive/refs/heads/main.zip) or `git clone https://github.com/openrodygu/project-engineering.git`.
-2. Extract the ZIP if you downloaded it.
-3. Copy `templates/team-vault/` or `templates/personal-vault/` to a folder you can find.
-4. In Obsidian, choose **Open folder as vault** and select the copy. Trust the author and enable plugins.
-5. Start with [templates/README.md](templates/README.md).
+**Fastest path:** download [team-vault.zip](downloads/team-vault.zip) or [personal-vault.zip](downloads/personal-vault.zip), extract it, and open the extracted folder as a vault in Obsidian.
+
+**From the repo:** download the [handbook ZIP](https://github.com/openrodygu/project-engineering/archive/refs/heads/main.zip) or `git clone https://github.com/openrodygu/project-engineering.git`, extract it, and copy `templates/team-vault/` or `templates/personal-vault/` to a folder you can find. On Windows, turn on **View → Show → Hidden items** before copying so the `.obsidian` folder comes along.
+
+In Obsidian, choose **Open folder as vault** and select the folder.
+
+Obsidian asks you to trust the vault because it includes two community plugins: dotpm (team board) and TaskNotes (personal tasks). Trusting it lets them run. If you would rather not, the [templates README](templates/README.md) has a zero-trust path: install the plugins yourself from Obsidian’s Community Plugins browser.
 
 New to Obsidian? [Obsidian basics](guides/obsidian/00-obsidian-basics.md) covers install, the interface, links, properties, and Markdown.
 
@@ -57,23 +59,13 @@ Every skill works on its own. Nothing requires the workspace template or the oth
 
 | Skill | Start with | You will produce |
 | --- | --- | --- |
-| [Project management](guides/project-management/) | A one-page brief | Project brief and a small task board |
+| [Project management](guides/project-management/) | A one-page brief | Project brief and a small task list |
+| [Self-management](guides/self-management/) | A personal task list | Tomorrow’s plan |
+| [Obsidian](guides/obsidian/) | The two vault templates | A team vault and a personal vault |
 | [Git](guides/git/) | A local repository | Commit, branch, merge, and a practice remote |
 | [Git services](guides/git-services/) | A hosted repository | Issue, pull request, and review |
-| [Obsidian](guides/obsidian/) | The two vault templates | A team vault and a personal vault |
 | [Collaboration](guides/collaboration/) | A shared repository | Pull-request description and review checklist |
 | [Team lead](guides/team-lead/) | A one-on-one | Agenda and delegation brief |
-| [Self-management](guides/self-management/) | A personal task list | Tomorrow’s plan |
-
-## What it looks like
-
-These are the plugins’ own demo screenshots, not this handbook’s Example Project. The template starts with four example tasks.
-
-| Team vault (dotpm) | Personal vault (TaskNotes) |
-| --- | --- |
-| <img src="assets/dotpm-dashboard.png" alt="dotpm team dashboard" width="480"> | <img src="assets/tasknotes-demo.gif" alt="TaskNotes personal task views" width="480"> |
-
-Screenshots from the [dotpm](https://github.com/dotpm/obsidian-pm) and [TaskNotes](https://github.com/callumalpass/tasknotes) projects, both MIT licensed.
 
 ## What is a project engineering system?
 
@@ -90,7 +82,7 @@ The skills in this repo map to those pillars. The [handbook](handbook/) explains
 
 - Not a certification or a prescribed process.
 - Not a replacement for your team’s real project management, contracts, or budgets.
-- Not support for Obsidian, dotpm, TaskNotes, Git, or GitHub. Use their own docs for tool problems.
+- Not official support for Obsidian, dotpm, TaskNotes, Git, or GitHub. Those tools have their own docs.
 - Not exhaustive. It is one person’s workflow, shared so you can remix it.
 
 ## About this handbook
@@ -101,10 +93,10 @@ This repo was *vibecoded*: built through rapid iteration, conversation, and a lo
 
 The order is a suggestion, not a gate. If you only want project management, start there.
 
-1. **Git** — create a local repository and learn commits, branches, and remotes.
-2. **Obsidian** — set up the team vault and personal vault.
-3. **Project management** — plan the work in the team vault.
-4. **Self-management** — run your own execution in the personal vault.
+1. **Project management** — write a brief and a small task list.
+2. **Self-management** — run your own execution.
+3. **Obsidian** — set up the team and personal vaults.
+4. **Git** — create a local repository and learn commits, branches, and remotes.
 5. **Git services** — publish the repository and open an issue.
 6. **Collaboration** — propose and review a pull request.
 7. **Team lead** — use the system to lead people.
@@ -136,7 +128,7 @@ The vaults are not versioned by default. The `source/` folder is the Git reposit
 - [Personal vault](templates/personal-vault/) — private execution with TaskNotes.
 - [Project workspace](templates/project-workspace/README.md) — the folder structure around them.
 
-See [templates/README.md](templates/README.md) for setup.
+See [templates/README.md](templates/README.md) for screenshots and setup.
 
 ## Contributing
 

@@ -2,27 +2,50 @@
 
 A short orientation. Browsing takes about 5 minutes; a skill quick start takes 15–30 minutes.
 
+**On your phone or in a hurry? Skip to step 2. You do not need to install anything.**
+
 ## 0. Access the handbook
 
 - **Browser:** read here. Use the file list or the links on each page.
-- **Obsidian:** install Obsidian, get the files in step 2, then choose **Open folder as vault** and select the folder.
+- **Obsidian:** install Obsidian, get the files in step 4, then choose **Open folder as vault** and select the folder.
 
 New to Obsidian? [Obsidian basics](guides/obsidian/00-obsidian-basics.md) covers install, setup, and use.
-
-Then continue with step 1.
 
 ## 1. Choose your path
 
 - **Browse** — keep reading. No setup.
-- **Learn** — get the files and do one skill quick start.
+- **Learn** — do one skill quick start. No setup is required.
 - **Adopt** — copy a template or practice into your own workspace.
 - **Contribute** — fork, branch, and open a pull request. Optional.
 
-## 2. Get the files
+## 2. Pick one skill
 
-If you are reading in the browser, skip this step.
+Open [guides/README.md](guides/README.md) and choose one. If you are not sure, start with:
 
-**Download only (no Git):** [download the ZIP](https://github.com/openrodygu/project-engineering/archive/refs/heads/main.zip) and extract it. To use the templates, copy a template folder out and open the copy in Obsidian.
+- **Project management** if you need to plan work.
+- **Self-management** if your own task list is the problem.
+- **Obsidian** if you want to use the vault templates.
+- **Git** if you need version control.
+- **Team lead** if people are the hard part.
+
+If you want the Obsidian templates, do steps 4 and 5 first. The quick starts work without them.
+
+## 3. Do the quick start
+
+Every skill README begins with **Do this now**.
+
+- It takes 15–30 minutes.
+- It produces a concrete artifact.
+- It does not require the other skills.
+- If you only have five minutes, do the first step and stop.
+
+## 4. Get the files (optional)
+
+Skip this if you are reading in the browser.
+
+**Download only (no Git):** [download the ZIP](https://github.com/openrodygu/project-engineering/archive/refs/heads/main.zip) and extract it.
+
+**Ready-to-open vaults:** download [team-vault.zip](downloads/team-vault.zip) or [personal-vault.zip](downloads/personal-vault.zip), extract the ZIP, and open the extracted folder in Obsidian.
 
 **With Git:**
 
@@ -33,11 +56,11 @@ cd project-engineering
 
 The [Git skill](guides/git/) will teach clone later.
 
-To read the handbook in Obsidian, open the cloned or extracted repo folder as a vault. See [Obsidian basics](guides/obsidian/00-obsidian-basics.md).
+To read the handbook in Obsidian, open the cloned or extracted folder as a vault. See [Obsidian basics](guides/obsidian/00-obsidian-basics.md).
 
-## 3. Create a practice workspace (optional)
+## 5. Create a practice workspace (optional)
 
-If you want a place for the exercises, create this structure in your file explorer or terminal:
+If you want a place for the exercises, create this structure in your file explorer:
 
 ```text
 local-project/
@@ -56,26 +79,6 @@ Then:
 3. If you use Git, run `git init` inside `local-project/source/`. If you do not, skip this line; you do not need Git for the exercises.
 
 The full structure is explained in [templates/project-workspace/README.md](templates/project-workspace/README.md). You can use any folder names you like.
-
-## 4. Pick one skill
-
-Open [guides/README.md](guides/README.md) and choose one.
-
-If you are not sure, start with:
-
-- **Project management** if you need to plan work.
-- **Git** if you need version control.
-- **Obsidian** if you want to use the vault templates.
-- **Self-management** if your own task list is the problem.
-- **Team lead** if people are the hard part.
-
-## 5. Do the quick start
-
-Every skill README begins with **Do this now**.
-
-- It takes 15–30 minutes.
-- It produces a concrete artifact.
-- It does not require the other skills.
 
 ## 6. Stop or go deeper
 

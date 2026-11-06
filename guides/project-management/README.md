@@ -4,11 +4,11 @@ Plan work in small, visible pieces so the team knows what done means and what ha
 
 ## Do this now
 
-Take 15–30 minutes and produce three artifacts. Start with the browser or any notes app. The Obsidian version is optional.
+Take 15–30 minutes and produce three artifacts. Start with the browser or any notes app. The Obsidian version is optional. If you only have five minutes, do step 1 and stop.
 
 ### Browser or notes-app version (no setup)
 
-1. **Write a one-page project brief.** Create a note or document and fill in:
+1. **Write a one-page project brief.** Create a note or document. Google Docs, Sheets, Asana, or paper all work. Fill in:
 
    ```markdown
    **Goal:** What changes if this succeeds?
@@ -23,6 +23,8 @@ Take 15–30 minutes and produce three artifacts. Start with the browser or any 
    ```
 
    Keep it to one screen. A brief you cannot read in a minute is not a brief.
+
+   Prefer a fill-in template? Use the [project brief](../../resources/templates/project-brief.md).
 
 2. **Make a small task list.** Add three tasks with an owner, a status, and a due date. A simple table is enough:
 

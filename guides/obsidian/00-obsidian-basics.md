@@ -54,13 +54,17 @@ Your team vault and personal vault are separate vaults. Switching between them d
 
 ### Restricted mode and community plugins
 
-Obsidian disables community plugins in **Restricted mode**. To use dotpm or TaskNotes:
+Obsidian disables community plugins in **Restricted mode**. When it asks whether you trust the author, it is asking permission to run the community plugins bundled in the vault. Trusting the vault lets dotpm or TaskNotes run.
+
+To use them:
 
 1. Open **Settings → Community plugins**.
 2. Turn off **Restricted mode**.
 3. Enable the plugin you need.
 
 The team vault template already has dotpm installed. The personal vault template already has TaskNotes installed. See the [team vault README](../../templates/team-vault/_README.md) and [personal vault README](../../templates/personal-vault/_README.md).
+
+**Zero-trust option.** If you do not want to run the bundled plugins, delete `.obsidian/plugins/` from the vault copy, open the vault without enabling community plugins, then install dotpm or TaskNotes yourself from **Browse** in the same settings screen. The Markdown guides still work; the board and task views do not.
 
 ---
 
