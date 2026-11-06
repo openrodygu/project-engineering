@@ -50,7 +50,7 @@ You do not need any of this to use the handbook. [Tools and setup](TOOLS.md) cov
 
 ## About this handbook
 
-This repo was *vibecoded*: built through rapid iteration, conversation, and a lot of “try it and see.” It is one person’s personal workflow, not a prescribed system. Nothing here is dictated. It is a platform for you to learn from, remix, and take into your own adventures.
+This handbook was *vibecoded* with agents. It is one person’s personal workflow, not a prescribed system. Nothing here is dictated.
 
 ### What this is not
 
