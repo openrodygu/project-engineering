@@ -6,6 +6,8 @@ Plan work in small, visible pieces so the team knows what done means and what ha
 
 Take 15–30 minutes and produce three artifacts. Start with the browser or any notes app. The Obsidian version is optional. If you only have five minutes, do step 1 and stop.
 
+For example, plan a website refresh, a hiring pipeline, or an event.
+
 ### Browser or notes-app version (no setup)
 
 1. **Write a one-page project brief.** Create a note or document. Google Docs, Sheets, Asana, or paper all work. Fill in:
@@ -22,7 +24,7 @@ Take 15–30 minutes and produce three artifacts. Start with the browser or any 
    **Stakeholders:** decision maker, contributors, affected people.
    ```
 
-   Keep it to one screen. A brief you cannot read in a minute is not a brief.
+   Keep it to one screen. A brief you cannot read in a minute is not a brief. Use headings and bullets in your notes app; you do not need to type the asterisks.
 
 2. **Make a small task list.** Add three tasks with an owner, a status, and a due date. A simple table is enough:
 
@@ -32,7 +34,7 @@ Take 15–30 minutes and produce three artifacts. Start with the browser or any 
    | Review brief with stakeholder | ... | to do | ... |
    | Publish the plan | ... | to do | ... |
 
-   Set a priority only where the consequence is real.
+   Set a priority only where the consequence is real. A simple list works too; you do not need to type the pipes.
 
 3. **Pick one personal next action.** Write the next physical action you will take and when you will do it.
 

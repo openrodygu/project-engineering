@@ -64,7 +64,7 @@ To use them:
 
 The team vault template already has dotpm installed. The personal vault template already has TaskNotes installed. See the [team vault README](../../templates/team-vault/_README.md) and [personal vault README](../../templates/personal-vault/_README.md).
 
-**Zero-trust option (install the plugins yourself).** If you do not want to run the copies bundled in this repo, delete `.obsidian/plugins/` from the vault copy. This also removes the template's plugin settings. Open the vault without enabling community plugins, then install **Project Manager** (dotpm) or **TaskNotes** yourself from **Browse** in the same settings screen. You still trust the plugin developers when you install from the store. The Markdown guides still work; the preconfigured board and task views do not.
+**Zero-trust option (install the plugins yourself).** If you do not want to run the copies bundled in this repo, delete `.obsidian/plugins/` from the vault copy. This also removes the template's plugin settings. Open the vault without enabling community plugins, then install **Project Manager** (shown as dotpm after install) or **TaskNotes** from **Browse** in the same settings screen. Both paths run third-party plugin code. The Markdown guides still work; the preconfigured board and task views do not.
 
 ---
 

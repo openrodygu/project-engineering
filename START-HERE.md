@@ -28,7 +28,7 @@ Open [guides/README.md](guides/README.md) and choose one. If you are not sure, s
 - **Git** if you need version control.
 - **Team lead** if people are the hard part.
 
-If you want the Obsidian templates, do steps 4 and 5 first. The quick starts work without them.
+If you want the Obsidian templates, do step 4 only. Step 5 is optional. The quick starts work without them.
 
 ## 3. Do the quick start
 
@@ -45,7 +45,7 @@ Skip this if you are reading in the browser.
 
 **Download only (no Git):** [download the ZIP](https://github.com/openrodygu/project-engineering/archive/refs/heads/main.zip) and extract it.
 
-**Ready-to-open vaults:** download [team-vault.zip](downloads/team-vault.zip) or [personal-vault.zip](downloads/personal-vault.zip), extract the ZIP, and open the inner folder itself (the one containing `_README.md` and `.obsidian`) in Obsidian.
+**Ready-to-open vaults:** download [team-vault.zip](downloads/team-vault.zip) or [personal-vault.zip](downloads/personal-vault.zip), extract the ZIP, and open the inner folder itself (the one containing `_README.md` and `.obsidian`) in Obsidian. Your vault folder will be named `team-vault` or `personal-vault`; the `local-project/pm-vault` paths in the guides apply only to the workspace copy.
 
 **With Git:**
 

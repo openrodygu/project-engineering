@@ -28,7 +28,9 @@ The templates are Obsidian vaults (a folder of notes). You need Obsidian on a la
 
 In Obsidian, choose **Open folder as vault** and select the folder.
 
-Each vault includes one community plugin: dotpm in the team vault, TaskNotes in the personal vault. The notes are Markdown; the plugin is compiled code and its settings live in `.obsidian/`. Obsidian asks you to trust the vault so the plugin can run. If you would rather not, the [templates README](templates/README.md) has a zero-trust option: install the plugins yourself from Obsidian’s Community Plugins browser. You still trust the plugin developers in that path.
+If you used the ready-to-open ZIP, your vault folder is named `team-vault` or `personal-vault`. The `local-project/pm-vault` paths in the guides apply only to the workspace copy.
+
+Each vault includes one community plugin: dotpm in the team vault, TaskNotes in the personal vault. The notes are Markdown; the plugin is compiled code and can read and write files in the vault. Obsidian asks you to trust the vault so the plugin can run. If you would rather install it yourself, see the [templates README](templates/README.md). Both paths run third-party plugin code.
 
 New to Obsidian? [Obsidian basics](guides/obsidian/00-obsidian-basics.md) covers install, the interface, links, properties, and Markdown.
 

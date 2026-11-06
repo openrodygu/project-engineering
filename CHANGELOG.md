@@ -12,6 +12,7 @@ Notable changes to this repo. Dates are `YYYY-MM-DD`.
 - Correct the download contents, per-vault plugin count, hidden-file steps, and ZIP extraction notes.
 - Point project management to self-management next and surface the kickoff checklist.
 - Align the shared-vault folder names across the personal vault docs.
+- Clarify ZIP folder names and note that the quick-start examples do not need Markdown formatting.
 - Add five-minute options and tool-neutral wording to the quick starts.
 - Put project management and self-management first in the recommended order.
 - Reorder START-HERE so browser readers reach a skill before setup.

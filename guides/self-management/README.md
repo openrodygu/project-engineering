@@ -8,7 +8,7 @@ Run your own work so the team does not have to manage it for you.
 
 ### Browser or notes-app version (no setup)
 
-1. List three tasks for tomorrow. Start each title with a verb.
+1. List three tasks for tomorrow. Start each title with a verb. A simple list is enough; no formatting needed.
 2. Add one context to each, such as `office`, `deep-work`, or `waiting`.
 3. Add a rough time estimate in minutes to at least one task.
 4. Put all three on tomorrow's calendar or list.
