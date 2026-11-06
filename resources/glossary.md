@@ -69,6 +69,6 @@ The terms used across this repo. Definitions are short and practical.
 ## Related
 
 - [Handbook](../handbook/README.md)
-- [Project management](../guides/project-management/)
-- [Self-management](../guides/self-management/)
-- [Team lead](../guides/team-lead/)
+- [Project management](../guides/project-management/README.md)
+- [Self-management](../guides/self-management/README.md)
+- [Team lead](../guides/team-lead/README.md)

@@ -43,5 +43,5 @@ Ten minutes, once a week. The goal is a current view and a clear next week.
 - [Status update](../templates/status-update.md)
 - [Decision record](../templates/decision-record.md)
 - [Project close](project-close.md)
-- [Project management](../../guides/project-management/)
+- [Project management](../../guides/project-management/README.md)
 - [Handbook](../../handbook/README.md)

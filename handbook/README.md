@@ -15,7 +15,7 @@ A project engineering system is the repeatable way a team turns goals into deliv
 - **Knowledge** — how context and reasoning survive.
 - **Planning and tracking** — how work is broken down, sequenced, and measured.
 
-The skills in this handbook map to those pillars. The [templates](../templates/) are one way to adopt it in Obsidian.
+The skills in this handbook map to those pillars. The [templates](../templates/README.md) are one way to adopt it in Obsidian.
 
 ## Contents
 

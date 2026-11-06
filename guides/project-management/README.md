@@ -66,7 +66,7 @@ If you use the workspace templates, do the same three steps in Obsidian:
 2. Add the three tasks to that project. Give each one an assignee, a status, and a due date.
 3. Open `local-project/personal-project-notes/` and add one TaskNotes task: the next physical action you will take. Schedule it for today.
 
-The team vault is the shared view. The personal vault is yours. See [Obsidian](../obsidian/) if you are setting up the vaults for the first time.
+The team vault is the shared view. The personal vault is yours. See [Obsidian](../obsidian/README.md) if you are setting up the vaults for the first time.
 
 ## What it is
 
@@ -106,7 +106,7 @@ Read the core four first if you have a live project. The optional chapters answe
 
 - Team plan and task board: `local-project/pm-vault/`
 - Personal execution: `local-project/personal-project-notes/` (optional)
-- Templates: [Team vault](../../templates/team-vault/) and [Personal vault](../../templates/personal-vault/)
+- Templates: [Team vault](../../templates/team-vault/_README.md) and [Personal vault](../../templates/personal-vault/_README.md)
 - Workspace layout: [Project workspace](../../templates/project-workspace/README.md)
 - System view: [Handbook](../../handbook/README.md)
 - Skill catalog: [Skill catalog](../README.md)
@@ -121,4 +121,4 @@ Read the core four first if you have a live project. The optional chapters answe
 
 ## Next skill
 
-[Self-management](../self-management/) — run your own execution. Use [Git](../git/) later only if the project produces files you need to version.
+[Self-management](../self-management/README.md) — run your own execution. Use [Git](../git/README.md) later only if the project produces files you need to version.

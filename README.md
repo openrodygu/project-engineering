@@ -28,13 +28,13 @@ Each skill works on its own. Use one or use the whole system. You can stop after
 
 ## Skills
 
-- **[Project management](guides/project-management/)** — plan the work: a one-page brief and a small task list. Start here if you only need to plan.
-- **[Self-management](guides/self-management/)** — run your own execution: tomorrow’s plan.
-- **[Obsidian](guides/obsidian/)** — set up the optional vault templates.
-- **[Git](guides/git/)** — version control: commits, branches, and remotes.
-- **[Git services](guides/git-services/)** — publish a repository, open an issue, and review a pull request.
-- **[Collaboration](guides/collaboration/)** — work in a shared repository.
-- **[Team lead](guides/team-lead/)** — one-on-ones, delegation, and feedback.
+- **[Project management](guides/project-management/README.md)** — plan the work: a one-page brief and a small task list. Start here if you only need to plan.
+- **[Self-management](guides/self-management/README.md)** — run your own execution: tomorrow’s plan.
+- **[Obsidian](guides/obsidian/README.md)** — set up the optional vault templates.
+- **[Git](guides/git/README.md)** — version control: commits, branches, and remotes.
+- **[Git services](guides/git-services/README.md)** — publish a repository, open an issue, and review a pull request.
+- **[Collaboration](guides/collaboration/README.md)** — work in a shared repository.
+- **[Team lead](guides/team-lead/README.md)** — one-on-ones, delegation, and feedback.
 
 The order above is the full reading path. If you only want project management, start there and skip the rest.
 

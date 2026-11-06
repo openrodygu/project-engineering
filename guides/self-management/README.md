@@ -59,8 +59,8 @@ The loop is simple:
 ## Where this fits
 
 - Personal vault: `local-project/personal-project-notes/`
-- Template: [Personal vault](../../templates/personal-vault/)
-- Obsidian setup: [Obsidian](../obsidian/)
+- Template: [Personal vault](../../templates/personal-vault/_README.md)
+- Obsidian setup: [Obsidian](../obsidian/README.md)
 - Shared team commitments: `local-project/pm-vault/`
 For the system view, read the [Handbook](../../handbook/README.md).
 
@@ -74,4 +74,4 @@ For the system view, read the [Handbook](../../handbook/README.md).
 
 ## Next skill
 
-Read [Obsidian](../obsidian/) to get more from the personal vault, or [Team lead](../team-lead/) if you also lead other people.
+Read [Obsidian](../obsidian/README.md) to get more from the personal vault, or [Team lead](../team-lead/README.md) if you also lead other people.

@@ -24,8 +24,8 @@ New to Obsidian? [Obsidian basics](guides/obsidian/00-obsidian-basics.md) covers
 
 ## Use Git and Git services
 
-- [Git](guides/git/) — create a local repository and learn commits, branches, and remotes.
-- [Git services](guides/git-services/) — publish a repository, open an issue, and review a pull request.
+- [Git](guides/git/README.md) — create a local repository and learn commits, branches, and remotes.
+- [Git services](guides/git-services/README.md) — publish a repository, open an issue, and review a pull request.
 
 ## Build a workspace
 

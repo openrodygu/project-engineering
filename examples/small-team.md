@@ -4,8 +4,8 @@ Three to five people. The goal is shared visibility without a heavy process. One
 
 ## The setup
 
-- A [team vault](../templates/team-vault/) using dotpm for the shared plan.
-- A [personal vault](../templates/personal-vault/) using TaskNotes for each person.
+- A [team vault](../templates/team-vault/_README.md) using dotpm for the shared plan.
+- A [personal vault](../templates/personal-vault/_README.md) using TaskNotes for each person.
 - A Git repository in `source/`.
 - A project brief and a decision log in the team vault.
 
@@ -91,7 +91,7 @@ Then read [Scaling](scaling.md).
 - [Project kickoff](../resources/checklists/project-kickoff.md)
 - [Weekly review](../resources/checklists/weekly-review.md)
 - [Status update](../resources/templates/status-update.md)
-- [Team vault](../templates/team-vault/)
-- [Personal vault](../templates/personal-vault/)
-- [Project management](../guides/project-management/)
-- [Collaboration](../guides/collaboration/)
+- [Team vault](../templates/team-vault/_README.md)
+- [Personal vault](../templates/personal-vault/_README.md)
+- [Project management](../guides/project-management/README.md)
+- [Collaboration](../guides/collaboration/README.md)

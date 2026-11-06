@@ -43,5 +43,5 @@ Use this before the first task. Keep the answers short and put them in the [proj
 - [Project brief](../templates/project-brief.md)
 - [Decision record](../templates/decision-record.md)
 - [Weekly review](weekly-review.md)
-- [Project management](../../guides/project-management/)
+- [Project management](../../guides/project-management/README.md)
 - [Handbook](../../handbook/README.md)

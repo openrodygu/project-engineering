@@ -89,4 +89,4 @@ Read 01–03 first. Read 05 before you rely on a remote. Read 07 before you need
 
 ## Next skill
 
-[Git services](../git-services/) — publish the repository, open an issue, and review a pull request.
+[Git services](../git-services/README.md) — publish the repository, open an issue, and review a pull request.

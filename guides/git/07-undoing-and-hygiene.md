@@ -113,4 +113,4 @@ Practice recovery in `local-project/source/`.
 4. Add a `.gitignore` entry for a file you do not want tracked.
 5. Run `git status` and confirm the tree is clean.
 
-Next: [Git services](../git-services/) — publish the repository and collaborate.
+Next: [Git services](../git-services/README.md) — publish the repository and collaborate.

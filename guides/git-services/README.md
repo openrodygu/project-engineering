@@ -86,4 +86,4 @@ Read 01–03 first. Add 04 when you want automation. Read 06 before you invite o
 
 ## Next skill
 
-[Collaboration](../collaboration/) — write and review changes with other people.
+[Collaboration](../collaboration/README.md) — write and review changes with other people.

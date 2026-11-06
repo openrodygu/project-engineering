@@ -5,6 +5,7 @@ Notable changes to this repo. Dates are `YYYY-MM-DD`.
 ## Unreleased
 
 - Remove the orphaned START-HERE redirect and link the handbook, resources, examples, and downloads from the front page.
+- Point directory links at each folder's README so opening the repo in Obsidian does not create empty notes.
 
 ## v1.0.1 — 2026-11-06
 

@@ -51,5 +51,5 @@ Use this when the outcome is delivered or the project is stopped. Close the same
 - [Project brief](../templates/project-brief.md)
 - [Decision record](../templates/decision-record.md)
 - [Weekly review](weekly-review.md)
-- [Project management](../../guides/project-management/)
+- [Project management](../../guides/project-management/README.md)
 - [Handbook](../../handbook/README.md)

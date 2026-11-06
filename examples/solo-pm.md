@@ -5,7 +5,7 @@ One person, one project, a light setup. The point is to keep the plan and the wo
 ## The setup
 
 - A [project brief](../resources/templates/project-brief.md) in a notes folder.
-- A personal vault with [personal vault](../templates/personal-vault/) for daily execution.
+- A personal vault with [personal vault](../templates/personal-vault/_README.md) for daily execution.
 - A Git repository in `source/` if the project produces code or files.
 - A short weekly review with yourself.
 
@@ -70,6 +70,6 @@ Then move to the [small team](small-team.md) pattern.
 - [Project brief](../resources/templates/project-brief.md)
 - [Weekly review](../resources/checklists/weekly-review.md)
 - [Decision record](../resources/templates/decision-record.md)
-- [Project management](../guides/project-management/)
-- [Self-management](../guides/self-management/)
-- [Personal vault](../templates/personal-vault/)
+- [Project management](../guides/project-management/README.md)
+- [Self-management](../guides/self-management/README.md)
+- [Personal vault](../templates/personal-vault/_README.md)

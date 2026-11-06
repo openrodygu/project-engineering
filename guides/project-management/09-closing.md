@@ -72,4 +72,4 @@ Close one small piece of work.
 3. Write the close-out note with actual effort and one lesson.
 4. Archive the completed tasks in `local-project/pm-vault/`.
 
-Next: [Git](../git/) — keep the project source and its history safe.
+Next: [Git](../git/README.md) — keep the project source and its history safe.

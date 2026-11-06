@@ -11,7 +11,7 @@ A shared repository is a place where more than one person can propose, discuss, 
 - **Reviews** check the proposal before it lands.
 - **Commit history** records what changed and why.
 
-The hosted-repo mechanics — creating a repository, opening a pull request, requesting a review — are covered in [Git services](../git-services/). This skill focuses on how to use them well.
+The hosted-repo mechanics — creating a repository, opening a pull request, requesting a review — are covered in [Git services](../git-services/README.md). This skill focuses on how to use them well.
 
 ## Who does what
 

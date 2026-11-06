@@ -19,14 +19,14 @@ Short and curated. Read one source, apply one artifact, then decide whether to k
 - **Obsidian help** — <https://help.obsidian.md>. Start with links, properties, and vaults.
 - **dotpm docs** — <https://dotpm.pm/docs/install>. For the shared team vault.
 - **TaskNotes docs** — <https://tasknotes.dev/obsidian/>. For the personal execution vault.
-- [Obsidian guide](../guides/obsidian/) — how the two vaults fit together in this repo.
+- [Obsidian guide](../guides/obsidian/README.md) — how the two vaults fit together in this repo.
 
 ## Team lead and communication
 
 - **The Manager's Path** — Camille Fournier. A grounded guide to leading people at each level.
 - **High Output Management** — Andy Grove. Classic on meetings, decisions, and leverage.
 - **Radical Candor** — Kim Scott. Useful for feedback that is both clear and kind.
-- [Team lead guide](../guides/team-lead/) — the practices used in this repo.
+- [Team lead guide](../guides/team-lead/README.md) — the practices used in this repo.
 
 ## How to use this list
 

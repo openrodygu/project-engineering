@@ -72,7 +72,7 @@ One page for designing the project engineering system for a team or a project. F
 
 ## Related
 
-- [Project management](../guides/project-management/)
+- [Project management](../guides/project-management/README.md)
 - [Handbook](../handbook/README.md)
 - [Templates](../templates/README.md)
 - [Glossary](glossary.md)

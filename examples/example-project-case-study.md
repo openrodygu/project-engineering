@@ -1,6 +1,6 @@
 # Example Project case study
 
-A generic project followed from kickoff to retrospective. It uses the [team vault](../templates/team-vault/) with dotpm for team visibility and the [personal vault](../templates/personal-vault/) with TaskNotes for personal execution.
+A generic project followed from kickoff to retrospective. It uses the [team vault](../templates/team-vault/_README.md) with dotpm for team visibility and the [personal vault](../templates/personal-vault/_README.md) with TaskNotes for personal execution.
 
 ## The project
 
@@ -147,7 +147,7 @@ The team writes one change for the next project: add a sponsor review to the mil
 - [Kickoff checklist](../resources/checklists/project-kickoff.md)
 - [Weekly review](../resources/checklists/weekly-review.md)
 - [Project close](../resources/checklists/project-close.md)
-- [Team vault](../templates/team-vault/)
-- [Personal vault](../templates/personal-vault/)
-- [Project management](../guides/project-management/)
-- [Self-management](../guides/self-management/)
+- [Team vault](../templates/team-vault/_README.md)
+- [Personal vault](../templates/personal-vault/_README.md)
+- [Project management](../guides/project-management/README.md)
+- [Self-management](../guides/self-management/README.md)

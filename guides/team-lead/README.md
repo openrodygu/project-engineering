@@ -47,9 +47,9 @@ It does not mean doing the hardest technical work yourself, attending every meet
 ## Where this fits
 
 - Team vault: `local-project/pm-vault/`
-- Shared plan: [Team vault](../../templates/team-vault/)
-- Project planning: [Project management](../project-management/)
-- Working with people on changes: [Collaboration](../collaboration/)
+- Shared plan: [Team vault](../../templates/team-vault/_README.md)
+- Project planning: [Project management](../project-management/README.md)
+- Working with people on changes: [Collaboration](../collaboration/README.md)
 For the system view, read the [Handbook](../../handbook/README.md).
 
 ## Common mistakes
@@ -62,4 +62,4 @@ For the system view, read the [Handbook](../../handbook/README.md).
 
 ## Next skill
 
-Use [Self-management](../self-management/) to keep your own work under control while you lead.
+Use [Self-management](../self-management/README.md) to keep your own work under control while you lead.

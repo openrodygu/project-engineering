@@ -2,17 +2,17 @@
 
 Each skill is standalone. Start with the skill that solves your current problem.
 
-New here? Start with [Access the handbook](../README.md#start-here), or jump to [Project management](project-management/) if you just need to plan work.
+New here? Start with [Access the handbook](../README.md#start-here), or jump to [Project management](project-management/README.md) if you just need to plan work.
 
 ## Skills
 
-1. [Project management](project-management/) — write a one-page brief and a small task list.
-2. [Self-management](self-management/) — set up a personal task list and tomorrow’s plan.
-3. [Obsidian](obsidian/) — open the optional vault templates.
-4. [Git](git/) — create a local repository and learn commits, branches, and merges.
-5. [Git services](git-services/) — publish a repository, open an issue, and review a pull request.
-6. [Collaboration](collaboration/) — work in a shared repository.
-7. [Team lead](team-lead/) — write a one-on-one agenda and a delegation brief.
+1. [Project management](project-management/README.md) — write a one-page brief and a small task list.
+2. [Self-management](self-management/README.md) — set up a personal task list and tomorrow’s plan.
+3. [Obsidian](obsidian/README.md) — open the optional vault templates.
+4. [Git](git/README.md) — create a local repository and learn commits, branches, and merges.
+5. [Git services](git-services/README.md) — publish a repository, open an issue, and review a pull request.
+6. [Collaboration](collaboration/README.md) — work in a shared repository.
+7. [Team lead](team-lead/README.md) — write a one-on-one agenda and a delegation brief.
 
 The order is a suggestion, not a gate.
 
@@ -31,11 +31,11 @@ You can stop after **Do this now**. Most quick starts work in any notes app; the
 
 ## Take only what you need
 
-- **Project management only:** [Project management](project-management/).
-- **Obsidian for project work:** [Obsidian](obsidian/) + [Project management](project-management/).
-- **Version control only:** [Git](git/).
-- **Publish and collaborate:** [Git](git/) + [Git services](git-services/) + [Collaboration](collaboration/).
-- **Lead a team:** [Team lead](team-lead/) + [Self-management](self-management/).
+- **Project management only:** [Project management](project-management/README.md).
+- **Obsidian for project work:** [Obsidian](obsidian/README.md) + [Project management](project-management/README.md).
+- **Version control only:** [Git](git/README.md).
+- **Publish and collaborate:** [Git](git/README.md) + [Git services](git-services/README.md) + [Collaboration](collaboration/README.md).
+- **Lead a team:** [Team lead](team-lead/README.md) + [Self-management](self-management/README.md).
 
 Nothing requires the other skills or the workspace template.
 

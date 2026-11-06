@@ -27,8 +27,8 @@ Copy, paste, and fill in.
 
 ## Related
 
-- [Project management](../guides/project-management/)
-- [Self-management](../guides/self-management/)
-- [Team lead](../guides/team-lead/)
+- [Project management](../guides/project-management/README.md)
+- [Self-management](../guides/self-management/README.md)
+- [Team lead](../guides/team-lead/README.md)
 - [Handbook](../handbook/README.md)
 - [Templates](../templates/README.md)

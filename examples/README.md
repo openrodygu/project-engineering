@@ -29,8 +29,8 @@ Add structure when a real problem appears. Remove it when it stops earning its p
 ## Related
 
 - [Skill catalog](../guides/README.md)
-- [Project management](../guides/project-management/)
-- [Team vault](../templates/team-vault/)
-- [Personal vault](../templates/personal-vault/)
+- [Project management](../guides/project-management/README.md)
+- [Team vault](../templates/team-vault/_README.md)
+- [Personal vault](../templates/personal-vault/_README.md)
 - [Project brief](../resources/templates/project-brief.md)
 - [System canvas](../resources/system-canvas.md)

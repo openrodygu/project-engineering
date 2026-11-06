@@ -50,7 +50,7 @@ You learn Obsidian faster by opening the templates and doing one real task in ea
 - Team vault: `local-project/pm-vault/`
 - Personal vault: `local-project/personal-project-notes/`
 
-Start from the [Team vault](../../templates/team-vault/) and [Personal vault](../../templates/personal-vault/) templates. The folder structure is explained in [Project workspace](../../templates/project-workspace/README.md).
+Start from the [Team vault](../../templates/team-vault/_README.md) and [Personal vault](../../templates/personal-vault/_README.md) templates. The folder structure is explained in [Project workspace](../../templates/project-workspace/README.md).
 
 For the system view, read the [Handbook](../../handbook/README.md).
 
@@ -64,4 +64,4 @@ For the system view, read the [Handbook](../../handbook/README.md).
 
 ## Next skill
 
-Use [Project management](../project-management/) to plan work in the team vault, or [Self-management](../self-management/) to run your own execution in the personal vault.
+Use [Project management](../project-management/README.md) to plan work in the team vault, or [Self-management](../self-management/README.md) to run your own execution in the personal vault.

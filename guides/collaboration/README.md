@@ -6,7 +6,7 @@ Work with other people on a shared repository without losing context, decisions,
 
 20–30 minutes. You will finish with a pull-request description and a review checklist.
 
-1. Open a repository you work in. If you do not have one, read [Git services](../git-services/) and create a practice repository.
+1. Open a repository you work in. If you do not have one, read [Git services](../git-services/README.md) and create a practice repository.
 2. Pick a small change: a bug fix, a docs correction, or a one-file improvement.
 3. Write a pull-request description with these sections:
    - **What changed** — one or two sentences.
@@ -43,7 +43,7 @@ Collaboration is a practice, not a gate. The goal is to help the change land saf
 ## Where this fits
 
 - Hosted repository: `hosted-service/`
-- Hosted repository mechanics: [Git services](../git-services/)
+- Hosted repository mechanics: [Git services](../git-services/README.md)
 - Shared task view: `local-project/pm-vault/`
 For the system view, read the [Handbook](../../handbook/README.md).
 
@@ -57,4 +57,4 @@ For the system view, read the [Handbook](../../handbook/README.md).
 
 ## Next skill
 
-Read [Git services](../git-services/) for the hosted-repo mechanics, or [Team lead](../team-lead/) if you also lead the people doing the work.
+Read [Git services](../git-services/README.md) for the hosted-repo mechanics, or [Team lead](../team-lead/README.md) if you also lead the people doing the work.

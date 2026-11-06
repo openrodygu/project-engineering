@@ -67,4 +67,4 @@ Map one workflow to GitLab terms.
 
 This appendix is optional. Do this only if your team uses GitLab or you expect to.
 
-Next: [Collaboration](../collaboration/) — work with other people on changes.
+Next: [Collaboration](../collaboration/README.md) — work with other people on changes.
