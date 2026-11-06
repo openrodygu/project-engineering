@@ -4,7 +4,7 @@ A short, practical introduction to Obsidian. Read this once, then use it as a re
 
 This is the repo-level guide. The team and personal vault templates ship their own `Obsidian-Basics.md` tuned to that vault. This page covers the shared basics and how to open the handbook itself.
 
-- Read the handbook first: [START-HERE.md](../../START-HERE.md)
+- Read the handbook first: [README.md](../../README.md#start-here)
 - The two-vault model: [01 Vaults and the two-vault model](01-vaults-and-the-two-vault-model.md)
 - Open the templates: [02 Opening the templates](02-opening-the-templates.md)
 - Templates overview: [templates/README.md](../../templates/README.md)
@@ -13,7 +13,7 @@ This is the repo-level guide. The team and personal vault templates ship their o
 
 ## Two ways to read this handbook
 
-**In your browser.** You do not need to install anything. Open [START-HERE.md](../../START-HERE.md) and follow the links. Markdown renders on GitHub. Some links inside `templates/` only work when that folder is open in Obsidian.
+**In your browser.** You do not need to install anything. Open the [README](../../README.md#start-here) and follow the links. Markdown renders on GitHub. Some links inside `templates/` only work when that folder is open in Obsidian.
 
 **In Obsidian.** Install Obsidian, clone or download this repo, and open the repo folder as a vault. That gives you working links, backlinks, and search for the handbook pages. The template folders are separate vaults; open a copy separately.
 
@@ -197,7 +197,7 @@ One note per task keeps conflicts rare, because two tasks are two files.
 
 ## Where to go next
 
-- [START-HERE.md](../../START-HERE.md) — the short orientation.
+- [README](../../README.md#start-here) — the front page and first step.
 - [01 Vaults and the two-vault model](01-vaults-and-the-two-vault-model.md) — why team and personal work stay separate.
 - [02 Opening the templates](02-opening-the-templates.md) — copy and open the team and personal vaults.
 - [03 Markdown and notes](03-markdown-and-notes.md) — a little more Markdown.

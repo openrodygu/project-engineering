@@ -6,7 +6,23 @@ Plan work in small, visible pieces so the team knows what done means and what ha
 
 Take 15–30 minutes and produce three artifacts. Start with the browser or any notes app. The Obsidian version is optional. If you only have five minutes, do step 1 and stop.
 
-For example, plan a website refresh, a hiring pipeline, or an event.
+### Example
+
+**Project:** Get the stockroom relabeled before the holiday rush.
+
+- **Goal:** Every shelf has the new label before the holiday sale.
+- **Definition of done:** All shelves labeled and spot-checked by the store manager.
+- **In scope:** Back room and sales floor shelves.
+- **Out of scope:** Warehouse inventory counts.
+- **Stakeholders:** Store manager (decision maker), shift leads (contributors), staff (affected).
+
+| Task | Owner | Status | Due |
+| --- | --- | --- | --- |
+| Print first label batch | Jamie | in progress | Nov 10 |
+| Label back room shelves | Shift leads | to do | Nov 12 |
+| Spot-check and fix gaps | Store manager | to do | Nov 13 |
+
+**Next action:** Print the first batch of shelf labels tomorrow at 9am.
 
 ### Browser or notes-app version (no setup)
 

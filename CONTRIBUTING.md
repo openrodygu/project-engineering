@@ -41,6 +41,18 @@ By participating, you agree to follow the [Code of Conduct](CODE_OF_CONDUCT.md).
 - A fix for a broken link, unclear instruction, or outdated tool detail.
 - A bug report or skill request.
 
+## Where things live
+
+| Folder | What it holds |
+| --- | --- |
+| `handbook/` | The system view: why a system, how the pieces fit, and how to adopt it. |
+| `guides/` | Standalone skills. Each has a quick start and produces an artifact. |
+| `templates/` | Obsidian vaults for team visibility and personal tasks. |
+| `resources/` | Checklists, templates, a glossary, and a reading list. |
+| `examples/` | Walkthroughs for a solo PM, a small team, and scaling. |
+| `downloads/` | Ready-to-open ZIPs of the templates. |
+| `assets/` | Screenshots used in the docs. |
+
 ## Skill page format
 
 Each skill has a `README.md` and numbered chapters.
