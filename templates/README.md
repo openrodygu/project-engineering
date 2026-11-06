@@ -14,6 +14,14 @@ All templates are sanitized. They contain a generic `Example Project`, placehold
 
 ## Quick start
 
+To read the handbook itself in Obsidian, open the repo root folder as a vault. The vault templates below are separate vaults. New to Obsidian? See [Obsidian basics](../guides/obsidian/00-obsidian-basics.md).
+
+| Team vault (dotpm) | Personal vault (TaskNotes) |
+| --- | --- |
+| <img src="../assets/dotpm-dashboard.png" alt="dotpm team dashboard" width="420"> | <img src="../assets/tasknotes-demo.gif" alt="TaskNotes personal task views" width="420"> |
+
+Screenshots from the [dotpm](https://github.com/dotpm/obsidian-pm) and [TaskNotes](https://github.com/callumalpass/tasknotes) projects, both MIT licensed.
+
 ### 1. Open a vault
 
 Copy `team-vault/` and/or `personal-vault/` into a workspace folder. Copy the whole folder, including the hidden `.obsidian` directory.

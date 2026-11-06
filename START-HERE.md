@@ -2,6 +2,15 @@
 
 A 15-minute orientation. You do not need to read the whole repo first.
 
+## 0. Access the handbook
+
+- **Browser:** read here. Use the file list or the links on each page.
+- **Obsidian:** install Obsidian, clone or download this repo, then choose **Open folder as vault** and select the repo folder.
+
+New to Obsidian? [Obsidian basics](guides/obsidian/00-obsidian-basics.md) covers install, setup, and use.
+
+Then continue with step 1.
+
 ## 1. Choose your path
 
 - **Browse** — keep reading. No setup.
@@ -11,6 +20,8 @@ A 15-minute orientation. You do not need to read the whole repo first.
 
 ## 2. Get the repo
 
+If you are reading in the browser, skip this step.
+
 If you use Git:
 
 ```sh
@@ -19,6 +30,8 @@ cd project-engineering
 ```
 
 If you do not use Git yet, download the ZIP from GitHub. The [Git skill](guides/git/) will teach clone later.
+
+To read the handbook in Obsidian, open the cloned or extracted repo folder as a vault. See [Obsidian basics](guides/obsidian/00-obsidian-basics.md).
 
 ## 3. Create a practice workspace (optional)
 

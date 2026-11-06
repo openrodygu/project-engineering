@@ -4,6 +4,8 @@ Obsidian turns a folder of Markdown files into a workspace for notes, team proje
 
 You need Obsidian installed. Download it from <https://obsidian.md>.
 
+New to Obsidian? Read [00 Obsidian basics](00-obsidian-basics.md) first. It covers install, opening a vault, links, properties, and Markdown.
+
 ## Do this now
 
 15–30 minutes. You will finish with two open vaults, one team task, and one personal task.
@@ -33,6 +35,7 @@ You learn Obsidian faster by opening the templates and doing one real task in ea
 
 ## Go deeper
 
+0. [Obsidian basics](00-obsidian-basics.md)
 1. [01 Vaults and the two-vault model](01-vaults-and-the-two-vault-model.md)
 2. [02 Opening the templates](02-opening-the-templates.md)
 3. [03 Markdown and notes](03-markdown-and-notes.md)
