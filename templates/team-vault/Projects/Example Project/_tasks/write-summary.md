@@ -7,8 +7,8 @@ title: Write Summary
 type: subtask
 status: todo
 priority: medium
-start: 2026-01-15
-due: 2026-01-16
+start: 2026-11-23
+due: 2026-11-24
 progress: 0
 assignees:
   - Dave
@@ -16,8 +16,8 @@ tags: []
 subtaskIds: []
 dependencies:
   - "[[build-prototype|Build Prototype]]"
-createdAt: "2026-01-01T00:00:00.000Z"
-updatedAt: "2026-01-01T00:00:00.000Z"
+createdAt: "2026-11-01T00:00:00.000Z"
+updatedAt: "2026-11-01T00:00:00.000Z"
 ---
 
 Parent: [[define-scope|Define Scope]]

@@ -16,11 +16,11 @@ The shared team vault is the sibling folder:
 
 ```text
 your-workspace/
-├── team-vault/       shared team vault (dotpm)
-└── personal-vault/   your personal vault (TaskNotes)
+├── pm-vault/                  shared team vault (dotpm)
+└── personal-project-notes/    your personal vault (TaskNotes)
 ```
 
-From this vault, the shared vault is `../team-vault`.
+From this vault, the shared vault is `../pm-vault`.
 
 Open it as a separate Obsidian vault with **Open another vault**. Its own `_README.md` and `Guides/` explain the team workflow and the dotpm software.
 
@@ -71,7 +71,7 @@ If it is only about how you spend your own time, keep it here.
 
 When a personal task becomes team work:
 
-1. Open the shared vault (`../team-vault`).
+1. Open the shared vault (`../pm-vault`).
 2. Open the **Project manager** pane and choose the relevant project, usually **Example Project**.
 3. Click **+ add task** and create a matching task.
 4. Set status, priority, assignee, and dates.

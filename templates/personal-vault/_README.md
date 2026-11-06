@@ -17,12 +17,12 @@ It supplements the shared team vault. It does not replace it, and it does not re
 | **Tool**                | dotpm                                                  | TaskNotes                                            |
 | **Visibility**          | Whole team                                             | Private to you                                       |
 | **Source of truth for** | What the team is doing and its status                  | Your daily plan, personal tasks, reminders           |
-| **Location**            | `your-workspace/team-vault/` *(any shared drive)* | A folder you choose                                  |
+| **Location**            | `your-workspace/pm-vault/` *(any shared drive)* | A folder you choose                                  |
 | **Contains**            | Projects, tasks, dependencies, milestones, decisions   | Personal tasks, contexts, time blocks, private notes |
 
 ### The shared vault
 
-The shared vault is the folder `../team-vault` inside `your-workspace`. It uses dotpm and holds the team-visible plan.
+The shared vault is the folder `../pm-vault` inside `your-workspace`. It uses dotpm and holds the team-visible plan.
 
 Open it as a separate Obsidian vault when you need to see or update team work. Its own `_README.md` explains the team workflow.
 
@@ -113,7 +113,7 @@ See [[Self-Management-101]] for the longer version with tips and templates.
 
 When a personal task becomes team work:
 
-1. Open the shared vault (`../team-vault`).
+1. Open the shared vault (`../pm-vault`).
 2. Open the **Project manager** pane and choose the relevant project, usually **Example Project**.
 3. Create a matching task with the same title.
 4. Set status, priority, assignee, and dates.

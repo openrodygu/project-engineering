@@ -4,9 +4,13 @@ Plan work in small, visible pieces so the team knows what done means and what ha
 
 ## Do this now
 
-Take 15–30 minutes and produce three artifacts. You can do this with any notes app, but the steps below use the workspace tools.
+Take 15–30 minutes and produce three artifacts. Start with the browser or any notes app. The Obsidian version is optional. If you only have five minutes, do step 1 and stop.
 
-1. **Write a one-page project brief.** Open `local-project/pm-vault/` in Obsidian. Use the **Project manager** pane to create a project, then put this in the project’s **Description** field:
+For example, plan a website refresh, a hiring pipeline, or an event.
+
+### Browser or notes-app version (no setup)
+
+1. **Write a one-page project brief.** Create a note or document. Google Docs, Sheets, Asana, or paper all work. Fill in:
 
    ```markdown
    **Goal:** What changes if this succeeds?
@@ -20,19 +24,33 @@ Take 15–30 minutes and produce three artifacts. You can do this with any notes
    **Stakeholders:** decision maker, contributors, affected people.
    ```
 
-   Keep it to one screen. A brief you cannot read in a minute is not a brief.
+   Keep it to one screen. A brief you cannot read in a minute is not a brief. Use headings and bullets in your notes app; you do not need to type the asterisks.
 
-2. **Create a small dotpm project with three tasks.** Use dotpm, the first team PM tool in this workspace. In the same project, add three tasks:
+2. **Make a small task list.** Add three tasks with an owner, a status, and a due date. A simple table is enough:
 
-   - `Draft project brief`
-   - `Review brief with stakeholder`
-   - `Publish the plan`
+   | Task | Owner | Status | Due |
+   | --- | --- | --- | --- |
+   | Draft project brief | you | in progress | ... |
+   | Review brief with stakeholder | ... | to do | ... |
+   | Publish the plan | ... | to do | ... |
 
-   Give each one an assignee, a status, and a due date. Set a priority only where the consequence is real.
+   Set a priority only where the consequence is real. A simple list works too; you do not need to type the pipes.
 
-3. **Create one personal next action.** Open `local-project/personal-project-notes/` and add one TaskNotes task: the next physical action you will take. Schedule it for today. TaskNotes is the first personal PM tool here.
+3. **Pick one personal next action.** Write the next physical action you will take and when you will do it.
 
 You now have a team-facing plan and one personal action. That small loop is the whole skill in miniature.
+
+Need a fuller brief later? Use the [project brief template](../../resources/templates/project-brief.md). Planning a kickoff? Use the [project kickoff checklist](../../resources/checklists/project-kickoff.md).
+
+### Obsidian version (optional)
+
+If you use the workspace templates, do the same three steps in Obsidian:
+
+1. Open `local-project/pm-vault/` and create a project in the **Project manager** pane (dotpm). Put the brief in the project’s **Description** field.
+2. Add the three tasks to that project. Give each one an assignee, a status, and a due date.
+3. Open `local-project/personal-project-notes/` and add one TaskNotes task: the next physical action you will take. Schedule it for today.
+
+The team vault is the shared view. The personal vault is yours. See [Obsidian](../obsidian/) if you are setting up the vaults for the first time.
 
 ## What it is
 
@@ -87,4 +105,4 @@ Read the core four first if you have a live project. The optional chapters answe
 
 ## Next skill
 
-[Git](../git/) — put the project source under version control.
+[Self-management](../self-management/) — run your own execution. Use [Git](../git/) later only if the project produces files you need to version.

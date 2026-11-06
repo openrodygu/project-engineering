@@ -14,9 +14,23 @@ All templates are sanitized. They contain a generic `Example Project`, placehold
 
 ## Quick start
 
-### 1. Open a vault
+To read the handbook itself in Obsidian, open the repo root folder as a vault. The vault templates below are separate vaults. New to Obsidian? See [Obsidian basics](../guides/obsidian/00-obsidian-basics.md).
 
-Copy `team-vault/` and/or `personal-vault/` into a workspace folder. Copy the whole folder, including the hidden `.obsidian` directory.
+Templates require Obsidian. The handbook itself does not.
+
+| Team vault (dotpm) | Personal vault (TaskNotes) |
+| --- | --- |
+| <img src="../assets/dotpm-dashboard.png" alt="dotpm team dashboard" width="420"> | <img src="../assets/tasknotes-demo.gif" alt="TaskNotes personal task views" width="420"> |
+
+These are the plugins’ own demo screenshots, not this repo’s Example Project. Both projects are MIT licensed.
+
+### 1. Get a vault
+
+**Fastest path:** download [team-vault.zip](../downloads/team-vault.zip) or [personal-vault.zip](../downloads/personal-vault.zip), extract it, and open the inner folder itself (the one containing `_README.md` and `.obsidian`) as a vault in Obsidian. The ZIP includes the plugin setup.
+
+**From the repo:** [download the handbook ZIP](https://github.com/openrodygu/project-engineering/archive/refs/heads/main.zip), extract it, and copy `templates/team-vault/` or `templates/personal-vault/` into a workspace folder. Copy the whole folder, including the `.obsidian` directory.
+
+If you used the ready-to-open ZIP, your vault folder is named `team-vault` or `personal-vault`. The `local-project/pm-vault` paths in the guides apply only to the workspace copy.
 
 ```text
 local-project/
@@ -24,11 +38,22 @@ local-project/
 └── personal-project-notes/     # copy of personal-vault
 ```
 
-In Obsidian, choose **Open folder as vault** and select one of the copies.
+If your file manager hides dot-folders, turn on hidden files before copying. On Windows they are visible by default. On macOS, press `Cmd+Shift+.` in Finder; on Linux, press `Ctrl+H`.
 
-### 2. Trust the vault
+### 2. Open and trust the vault
 
-Trust the author and enable community plugins.
+In Obsidian, choose **Open folder as vault** and select the folder.
+
+Each vault includes one community plugin: dotpm in the team vault, TaskNotes in the personal vault. The notes are Markdown; the plugin is compiled code and can read and write files in the vault. The plugins are MIT licensed; see [CREDITS.md](../CREDITS.md).
+
+Obsidian asks you to trust the vault so the plugin can run. If you would rather install it yourself:
+
+1. Extract the ZIP or copy the folder.
+2. Delete `.obsidian/plugins/`. This also removes the template's preconfigured plugin settings.
+3. Open the folder as a vault without enabling community plugins.
+4. Open **Settings → Community plugins → Browse** and install **Project Manager** (shown as dotpm after install) or **TaskNotes**.
+
+Both paths run third-party plugin code. The Markdown guides still work without the plugins; the board and task views do not.
 
 ### 3. Open the README
 
@@ -64,8 +89,8 @@ The workspace template is a README only. It shows a structure and explains why a
 ## Requirements
 
 - Obsidian **1.13 or newer** (dotpm requires 1.13; TaskNotes requires 1.12.2+).
-- Desktop or mobile.
-- No accounts, databases, or external services.
+- Desktop for setup. Template setup copies a hidden `.obsidian` folder; use a desktop file manager. Mobile can open a vault after it is set up.
+- No account is required to read the handbook or use the templates. Optional calendar and API integrations are off by default.
 
 ---
 

@@ -18,6 +18,21 @@ You can use this repo locally or contribute improvements. Both are welcome.
 - Make one focused change.
 - Open a pull request using the template.
 
+## How changes land
+
+`main` is protected:
+
+- Pull requests need one approval.
+- Conversations must be resolved before merge.
+- Force pushes and deleting `main` are blocked.
+- Maintainers can push directly; everyone else works from a fork or branch.
+
+Merged head branches are deleted automatically.
+
+Questions and feedback: [Discussions](https://github.com/openrodygu/project-engineering/discussions).
+
+By participating, you agree to follow the [Code of Conduct](CODE_OF_CONDUCT.md).
+
 ## What to contribute
 
 - A new skill or chapter.
@@ -69,6 +84,11 @@ If a skill mentions the workspace, say something like:
 - Check that the skill still works without the other skills.
 - Confirm no `workspace.json` files were added.
 - If you update a plugin in a template, update `templates/README.md` and `CREDITS.md`.
+- If you change anything under `templates/`, rebuild the ZIPs in `downloads/` so they match.
+
+## Rebuilding template downloads
+
+When you change a template, rebuild `downloads/team-vault.zip` and `downloads/personal-vault.zip` so they match `templates/`. Include hidden files and keep the template folder (`team-vault/` or `personal-vault/`) as the top-level directory in the ZIP.
 
 ## Commit messages
 

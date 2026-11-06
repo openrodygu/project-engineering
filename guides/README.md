@@ -2,15 +2,17 @@
 
 Each skill is standalone. Start with the skill that solves your current problem.
 
+New here? Start with [Access the handbook](../README.md#start-here), or jump to [Project management](project-management/) if you just need to plan work.
+
 | Skill | Quick start | You will produce | Works alone |
 | --- | --- | --- | --- |
-| [Project management](project-management/) | Write a one-page brief | Brief and a small task board | Yes |
+| [Project management](project-management/) | Write a one-page brief | Brief and a small task list | Yes |
+| [Self-management](self-management/) | Set up a personal task list | Tomorrow’s plan | Yes |
+| [Obsidian](obsidian/) | Open the vault templates | Team vault and personal vault | Yes |
 | [Git](git/) | Create a local repository | Commit, branch, merge, and a practice remote | Yes |
 | [Git services](git-services/) | Publish a repository | Issue, pull request, and review | Yes |
-| [Obsidian](obsidian/) | Open the vault templates | Team vault and personal vault | Yes |
 | [Collaboration](collaboration/) | Use a shared repository | Pull-request description and review checklist | Yes |
 | [Team lead](team-lead/) | Write a one-on-one agenda | Agenda and delegation brief | Yes |
-| [Self-management](self-management/) | Set up a personal task list | Tomorrow’s plan | Yes |
 
 ## How a skill works
 
@@ -23,16 +25,16 @@ Each skill has the same shape:
 5. **Common mistakes** — what to avoid.
 6. **Next skill** — a suggested follow-up, not a requirement.
 
-You can stop after **Do this now**.
+You can stop after **Do this now**. Most quick starts work in any notes app; the Obsidian version is optional and uses the templates.
 
 ## Recommended order
 
 The order is a suggestion, not a gate.
 
-1. [Git](git/)
-2. [Obsidian](obsidian/)
-3. [Project management](project-management/)
-4. [Self-management](self-management/)
+1. [Project management](project-management/)
+2. [Self-management](self-management/)
+3. [Obsidian](obsidian/)
+4. [Git](git/)
 5. [Git services](git-services/)
 6. [Collaboration](collaboration/)
 7. [Team lead](team-lead/)

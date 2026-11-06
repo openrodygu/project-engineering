@@ -4,24 +4,38 @@ Run your own work so the team does not have to manage it for you.
 
 ## Do this now
 
-15–20 minutes. You will finish with tomorrow's plan.
+15–20 minutes. You will finish with tomorrow's plan. Start with any notes app or paper. The Obsidian version is optional. If you only have five minutes, do steps 1–3.
+
+### Browser or notes-app version (no setup)
+
+1. List three tasks for tomorrow. Start each title with a verb. A simple list is enough; no formatting needed.
+2. Add one context to each, such as `office`, `deep-work`, or `waiting`.
+3. Add a rough time estimate in minutes to at least one task.
+4. Put all three on tomorrow's calendar or list.
+5. If the day looks unrealistic, cut one task and move it later.
+
+You now have the artifact: tomorrow's top three, with context and an estimate.
+
+### Obsidian version (optional)
+
+If you use the personal vault template:
 
 1. Open `local-project/personal-project-notes/` in Obsidian.
 2. Open the **TaskNotes** task view.
 3. Create three tasks for tomorrow. Start each title with a verb.
-4. Add one context to each, such as `office`, `deep-work`, or `waiting`.
+4. Add one context to each.
 5. Add a time estimate in minutes to at least one task.
 6. Schedule all three for tomorrow.
 7. Open the **Calendar** or **Agenda** view and check that the day looks realistic.
 8. If it does not, cut one task and move it later.
 
-You now have the artifact: tomorrow's top three, with context and an estimate, visible in a calendar.
+You now have tomorrow's top three, with context and an estimate, visible in a calendar.
 
 ## What it is
 
 Self-management is the practice of capturing work, deciding what matters, and giving your attention to one thing at a time. It is not about doing more. It is about knowing what you are doing and what you are deliberately not doing.
 
-The personal vault is the tool. TaskNotes holds each task as a note. Bases gives you task, calendar, agenda, and board views.
+The personal vault is one tool for this. TaskNotes holds each task as a note. Bases gives you task, calendar, agenda, and board views.
 
 The loop is simple:
 
