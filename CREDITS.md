@@ -32,6 +32,15 @@ This repository includes or references third-party Obsidian plugins and themes. 
 - **Author URL:** <https://github.com/Akifyss>
 - **License:** See the upstream repository for the current license.
 
+## Images
+
+Screenshots used in the README and templates:
+
+- **dotpm dashboard** — from the [dotpm README](https://github.com/dotpm/obsidian-pm). MIT licensed.
+- **TaskNotes demo** — from the [TaskNotes README](https://github.com/callumalpass/tasknotes). MIT licensed.
+
+The images are copied into `assets/` so the docs do not depend on remote files.
+
 ## Not included
 
 - **Obsidian** — the application itself is not included. Download it from <https://obsidian.md>.

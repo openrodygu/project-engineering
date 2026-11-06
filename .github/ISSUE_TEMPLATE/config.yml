@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Questions and feedback
+    url: https://github.com/openrodygu/project-engineering/discussions
+    about: Ask a question, share feedback, or show what you built.
+  - name: Read the handbook first
+    url: https://github.com/openrodygu/project-engineering/blob/main/START-HERE.md
+    about: Start with the 15-minute orientation.

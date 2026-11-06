@@ -18,6 +18,21 @@ You can use this repo locally or contribute improvements. Both are welcome.
 - Make one focused change.
 - Open a pull request using the template.
 
+## How changes land
+
+`main` is protected:
+
+- Pull requests need one approval.
+- Conversations must be resolved before merge.
+- Force pushes and deleting `main` are blocked.
+- Maintainers can push directly; everyone else works from a fork or branch.
+
+Merged head branches are deleted automatically.
+
+Questions and feedback: [Discussions](https://github.com/openrodygu/project-engineering/discussions).
+
+By participating, you agree to follow the [Code of Conduct](CODE_OF_CONDUCT.md).
+
 ## What to contribute
 
 - A new skill or chapter.
