@@ -4,10 +4,12 @@ Notable changes to this repo. Dates are `YYYY-MM-DD`.
 
 ## Unreleased
 
+- Remove the orphaned START-HERE redirect and link the handbook, resources, examples, and downloads from the front page.
+
 ## v1.0.1 — 2026-11-06
 
 - Rebuild the README as a handbook front page with a browser-first start and a filled-in example.
-- Fold START-HERE into the README; keep a redirect for old links.
+- Fold the separate start page into the README.
 - Add TOOLS.md for optional Obsidian, Git, and workspace setup.
 - Add browser/notes-app versions of the project management and self-management quick starts.
 - Add ready-to-open vault ZIPs and a zero-trust plugin option.

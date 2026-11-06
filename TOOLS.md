@@ -48,6 +48,7 @@ The vaults are not versioned by default. The `source/` folder is the Git reposit
 
 ## Where to go next
 
+- [Downloads README](downloads/README.md) — what is in each ZIP.
 - [Templates README](templates/README.md) — screenshots, setup, and zero-trust options.
 - [Obsidian basics](guides/obsidian/00-obsidian-basics.md) — install, the interface, links, properties, and Markdown.
 - [README](README.md) — start the handbook.

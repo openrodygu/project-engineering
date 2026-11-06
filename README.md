@@ -38,6 +38,12 @@ Each skill works on its own. Use one or use the whole system. You can stop after
 
 The order above is the full reading path. If you only want project management, start there and skip the rest.
 
+## Go deeper
+
+- [The full handbook](handbook/README.md) — how the skills fit together.
+- [Resources](resources/README.md) — checklists, templates, and a glossary.
+- [Examples](examples/README.md) — solo PM, small team, and scaling.
+
 ## Optional tools
 
 You do not need any of this to use the handbook. [Tools and setup](TOOLS.md) covers the Obsidian templates, downloads, Git, Git services, and the workspace structure.
