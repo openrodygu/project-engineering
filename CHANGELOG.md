@@ -4,23 +4,16 @@ Notable changes to this repo. Dates are `YYYY-MM-DD`.
 
 ## Unreleased
 
-- Add a beginner access path: read in the browser or open the repo in Obsidian.
-- Add [Obsidian basics](guides/obsidian/00-obsidian-basics.md).
-- Make the project management and self-management quick starts work in a browser or any notes app.
-- Add a download-only (no Git) path and ready-to-open vault ZIPs.
-- Add a zero-trust path for installing the plugins yourself.
-- Correct the download contents, per-vault plugin count, hidden-file steps, and ZIP extraction notes.
-- Point project management to self-management next and surface the kickoff checklist.
-- Align the shared-vault folder names across the personal vault docs.
-- Clarify ZIP folder names and note that the quick-start examples do not need Markdown formatting.
-- Add five-minute options and tool-neutral wording to the quick starts.
-- Put project management and self-management first in the recommended order.
-- Reorder START-HERE so browser readers reach a skill before setup.
-- Add a repo map and "What this is not" to the README.
-- Move the plugin demo images from the README to the templates page.
+- Rebuild the README as a handbook front page with a browser-first start and a filled-in example.
+- Fold START-HERE into the README; keep a redirect for old links.
+- Add TOOLS.md for optional Obsidian, Git, and workspace setup.
+- Add browser/notes-app versions of the project management and self-management quick starts.
+- Add ready-to-open vault ZIPs and a zero-trust plugin option.
+- Add a filled-in project example and a kickoff checklist link.
+- Correct template download details, per-vault plugin count, and folder names.
+- Move the folder map to CONTRIBUTING and the plugin demo images to the templates page.
+- Add contributor notes, Discussions links, and issue-template contacts.
 - Refresh the Example Project dates.
-- Add contributor notes for the protected `main` branch and Discussions.
-- Add issue-template contact links.
 
 ## v1.0.0 — 2026-11-05
 

@@ -2,9 +2,20 @@
 
 The handbook explains how the skills fit together. You do not need it to start.
 
-- **Want to do something now?** Open [START-HERE.md](../START-HERE.md) and pick a skill.
+- **Want to do something now?** Open the [README](../README.md#start-here) and pick a skill.
 - **Want the system view?** Read this handbook in order.
 - **Want depth on one topic?** Use the [skill catalog](../guides/README.md).
+
+## What is a project engineering system?
+
+A project engineering system is the repeatable way a team turns goals into delivered work. It covers four pillars:
+
+- **Workflow** — how work moves from idea to done.
+- **Communication** — how status, decisions, and feedback travel.
+- **Knowledge** — how context and reasoning survive.
+- **Planning and tracking** — how work is broken down, sequenced, and measured.
+
+The skills in this handbook map to those pillars. The [templates](../templates/) are one way to adopt it in Obsidian.
 
 ## Contents
 
