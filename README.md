@@ -22,13 +22,13 @@ Open [guides/README.md](guides/README.md) and pick one. Each quick start takes 1
 
 The templates are Obsidian vaults (a folder of notes). You need Obsidian on a laptop; you do not need Git.
 
-**Fastest path:** download [team-vault.zip](downloads/team-vault.zip) or [personal-vault.zip](downloads/personal-vault.zip), extract it, and open the extracted folder as a vault in Obsidian.
+**Fastest path:** download [team-vault.zip](downloads/team-vault.zip) or [personal-vault.zip](downloads/personal-vault.zip), extract it, and open the inner folder itself (the one containing `_README.md` and `.obsidian`) as a vault in Obsidian.
 
-**From the repo:** download the [handbook ZIP](https://github.com/openrodygu/project-engineering/archive/refs/heads/main.zip) or `git clone https://github.com/openrodygu/project-engineering.git`, extract it, and copy `templates/team-vault/` or `templates/personal-vault/` to a folder you can find. On Windows, turn on **View → Show → Hidden items** before copying so the `.obsidian` folder comes along.
+**From the repo:** download the [handbook ZIP](https://github.com/openrodygu/project-engineering/archive/refs/heads/main.zip) or `git clone https://github.com/openrodygu/project-engineering.git`, extract it, and copy `templates/team-vault/` or `templates/personal-vault/` to a folder you can find. If your file manager hides dot-folders, turn on hidden files so `.obsidian` comes along. On Windows they are visible by default; on macOS press `Cmd+Shift+.`, on Linux press `Ctrl+H`.
 
 In Obsidian, choose **Open folder as vault** and select the folder.
 
-Obsidian asks you to trust the vault because it includes two community plugins: dotpm (team board) and TaskNotes (personal tasks). Trusting it lets them run. If you would rather not, the [templates README](templates/README.md) has a zero-trust path: install the plugins yourself from Obsidian’s Community Plugins browser.
+Each vault includes one community plugin: dotpm in the team vault, TaskNotes in the personal vault. The notes are Markdown; the plugin is compiled code and its settings live in `.obsidian/`. Obsidian asks you to trust the vault so the plugin can run. If you would rather not, the [templates README](templates/README.md) has a zero-trust option: install the plugins yourself from Obsidian’s Community Plugins browser. You still trust the plugin developers in that path.
 
 New to Obsidian? [Obsidian basics](guides/obsidian/00-obsidian-basics.md) covers install, the interface, links, properties, and Markdown.
 

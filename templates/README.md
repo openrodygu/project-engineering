@@ -26,9 +26,9 @@ These are the plugins’ own demo screenshots, not this repo’s Example Project
 
 ### 1. Get a vault
 
-**Fastest path:** download [team-vault.zip](../downloads/team-vault.zip) or [personal-vault.zip](../downloads/personal-vault.zip), extract it, and open the extracted folder as a vault in Obsidian. The ZIP includes the plugin setup.
+**Fastest path:** download [team-vault.zip](../downloads/team-vault.zip) or [personal-vault.zip](../downloads/personal-vault.zip), extract it, and open the inner folder itself (the one containing `_README.md` and `.obsidian`) as a vault in Obsidian. The ZIP includes the plugin setup.
 
-**From the repo:** [download the handbook ZIP](https://github.com/openrodygu/project-engineering/archive/refs/heads/main.zip), extract it, and copy `templates/team-vault/` or `templates/personal-vault/` into a workspace folder. Copy the whole folder, including the hidden `.obsidian` directory.
+**From the repo:** [download the handbook ZIP](https://github.com/openrodygu/project-engineering/archive/refs/heads/main.zip), extract it, and copy `templates/team-vault/` or `templates/personal-vault/` into a workspace folder. Copy the whole folder, including the `.obsidian` directory.
 
 ```text
 local-project/
@@ -36,22 +36,23 @@ local-project/
 └── personal-project-notes/     # copy of personal-vault
 ```
 
-If you are copying folders on Windows, turn on **View → Show → Hidden items** first. On macOS, press `Cmd+Shift+.` in Finder.
+If your file manager hides dot-folders, turn on hidden files before copying. On Windows they are visible by default. On macOS, press `Cmd+Shift+.` in Finder; on Linux, press `Ctrl+H`.
 
 ### 2. Open and trust the vault
 
 In Obsidian, choose **Open folder as vault** and select the folder.
 
-Obsidian asks you to trust the vault because it includes two community plugins: dotpm and TaskNotes. Trusting it lets them run. The templates are plain Markdown; you can inspect them before you open them.
+Each vault includes one community plugin: dotpm in the team vault, TaskNotes in the personal vault. Obsidian asks you to trust the vault so that plugin can run. The notes are plain Markdown; the plugin is compiled JavaScript and its settings live in `.obsidian/`. You can inspect the files before you open the vault. The plugins are MIT licensed; see [CREDITS.md](../CREDITS.md).
 
-**Zero-trust option.** If you do not want to run the bundled plugins:
+**Zero-trust option (install the plugins yourself).** This avoids running the copies bundled in this repo, but you still trust the plugin developers when you install from the store.
 
 1. Extract the ZIP or copy the folder.
-2. Delete `.obsidian/plugins/` (or open the vault in Restricted mode).
-3. Open the folder as a vault.
-4. Install dotpm or TaskNotes yourself from **Settings → Community plugins → Browse**.
+2. Delete `.obsidian/plugins/`. This also removes the template's plugin settings (`data.json`), so statuses, priorities, folders, and views need to be set up again.
+3. Open the folder as a vault. Keep Restricted mode on if you do not want any community plugins to run.
+4. To install from the store, turn off Restricted mode, open **Settings → Community plugins → Browse**, and search for **Project Manager** (the plugin's internal name is dotpm) or **TaskNotes**.
+5. Reconfigure the plugin settings, or copy the settings from the template if you trust them.
 
-The Markdown guides still work without the plugins. You lose the board and task views until you install them.
+The Markdown guides still work without the plugins. You lose the preconfigured board and task views.
 
 ### 3. Open the README
 
@@ -88,7 +89,7 @@ The workspace template is a README only. It shows a structure and explains why a
 
 - Obsidian **1.13 or newer** (dotpm requires 1.13; TaskNotes requires 1.12.2+).
 - Desktop for setup. Template setup copies a hidden `.obsidian` folder; use a desktop file manager. Mobile can open a vault after it is set up.
-- No accounts, databases, or external services.
+- No account is required to read the handbook or use the templates. Optional calendar and API integrations are off by default.
 
 ---
 

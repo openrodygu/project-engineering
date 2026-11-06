@@ -13,9 +13,9 @@ This is the repo-level guide. The team and personal vault templates ship their o
 
 ## Two ways to read this handbook
 
-**In your browser.** You do not need to install anything. Open [START-HERE.md](../../START-HERE.md) and follow the links. Markdown renders on GitHub. Links written as `[[Note]]` appear inside `templates/` and only work when that folder is open in Obsidian.
+**In your browser.** You do not need to install anything. Open [START-HERE.md](../../START-HERE.md) and follow the links. Markdown renders on GitHub. Some links inside `templates/` only work when that folder is open in Obsidian.
 
-**In Obsidian.** Install Obsidian, clone or download this repo, and open the repo folder as a vault. That gives you working links, backlinks, search, and the vault templates.
+**In Obsidian.** Install Obsidian, clone or download this repo, and open the repo folder as a vault. That gives you working links, backlinks, and search for the handbook pages. The template folders are separate vaults; open a copy separately.
 
 ---
 
@@ -64,7 +64,7 @@ To use them:
 
 The team vault template already has dotpm installed. The personal vault template already has TaskNotes installed. See the [team vault README](../../templates/team-vault/_README.md) and [personal vault README](../../templates/personal-vault/_README.md).
 
-**Zero-trust option.** If you do not want to run the bundled plugins, delete `.obsidian/plugins/` from the vault copy, open the vault without enabling community plugins, then install dotpm or TaskNotes yourself from **Browse** in the same settings screen. The Markdown guides still work; the board and task views do not.
+**Zero-trust option (install the plugins yourself).** If you do not want to run the copies bundled in this repo, delete `.obsidian/plugins/` from the vault copy. This also removes the template's plugin settings. Open the vault without enabling community plugins, then install **Project Manager** (dotpm) or **TaskNotes** yourself from **Browse** in the same settings screen. You still trust the plugin developers when you install from the store. The Markdown guides still work; the preconfigured board and task views do not.
 
 ---
 

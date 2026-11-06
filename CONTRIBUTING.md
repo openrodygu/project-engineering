@@ -84,6 +84,11 @@ If a skill mentions the workspace, say something like:
 - Check that the skill still works without the other skills.
 - Confirm no `workspace.json` files were added.
 - If you update a plugin in a template, update `templates/README.md` and `CREDITS.md`.
+- If you change anything under `templates/`, rebuild the ZIPs in `downloads/` so they match.
+
+## Rebuilding template downloads
+
+When you change a template, rebuild `downloads/team-vault.zip` and `downloads/personal-vault.zip` so they match `templates/`. Include hidden files and keep the template folder (`team-vault/` or `personal-vault/`) as the top-level directory in the ZIP.
 
 ## Commit messages
 

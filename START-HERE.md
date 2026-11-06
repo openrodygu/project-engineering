@@ -14,7 +14,7 @@ New to Obsidian? [Obsidian basics](guides/obsidian/00-obsidian-basics.md) covers
 ## 1. Choose your path
 
 - **Browse** — keep reading. No setup.
-- **Learn** — do one skill quick start. No setup is required.
+- **Learn** — do one skill quick start. Project management and self-management need no setup; Obsidian and Git need their tools.
 - **Adopt** — copy a template or practice into your own workspace.
 - **Contribute** — fork, branch, and open a pull request. Optional.
 
@@ -45,7 +45,7 @@ Skip this if you are reading in the browser.
 
 **Download only (no Git):** [download the ZIP](https://github.com/openrodygu/project-engineering/archive/refs/heads/main.zip) and extract it.
 
-**Ready-to-open vaults:** download [team-vault.zip](downloads/team-vault.zip) or [personal-vault.zip](downloads/personal-vault.zip), extract the ZIP, and open the extracted folder in Obsidian.
+**Ready-to-open vaults:** download [team-vault.zip](downloads/team-vault.zip) or [personal-vault.zip](downloads/personal-vault.zip), extract the ZIP, and open the inner folder itself (the one containing `_README.md` and `.obsidian`) in Obsidian.
 
 **With Git:**
 

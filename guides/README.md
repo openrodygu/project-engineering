@@ -2,7 +2,7 @@
 
 Each skill is standalone. Start with the skill that solves your current problem.
 
-New here? Start with [Access the handbook](../README.md#start-here) or [Obsidian basics](obsidian/00-obsidian-basics.md).
+New here? Start with [Access the handbook](../README.md#start-here), or jump to [Project management](project-management/) if you just need to plan work.
 
 | Skill | Quick start | You will produce | Works alone |
 | --- | --- | --- | --- |

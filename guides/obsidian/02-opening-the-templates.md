@@ -8,7 +8,7 @@ Create `local-project/pm-vault` and `local-project/personal-project-notes` in yo
 
 Copy the entire contents of `templates/team-vault/` into `pm-vault/`, and the entire contents of `templates/personal-vault/` into `personal-project-notes/`.
 
-Make sure the hidden `.obsidian` folder comes along. It carries the plugins and settings. If hidden files are not visible in your file manager, enable hidden items first.
+Make sure the `.obsidian` folder comes along. It carries the plugins and settings. On Windows, dot-folders are visible by default. On macOS, press `Cmd+Shift+.`; on Linux, press `Ctrl+H`.
 
 ## Open them as vaults
 

@@ -24,8 +24,6 @@ Take 15–30 minutes and produce three artifacts. Start with the browser or any 
 
    Keep it to one screen. A brief you cannot read in a minute is not a brief.
 
-   Prefer a fill-in template? Use the [project brief](../../resources/templates/project-brief.md).
-
 2. **Make a small task list.** Add three tasks with an owner, a status, and a due date. A simple table is enough:
 
    | Task | Owner | Status | Due |
@@ -39,6 +37,8 @@ Take 15–30 minutes and produce three artifacts. Start with the browser or any 
 3. **Pick one personal next action.** Write the next physical action you will take and when you will do it.
 
 You now have a team-facing plan and one personal action. That small loop is the whole skill in miniature.
+
+Need a fuller brief later? Use the [project brief template](../../resources/templates/project-brief.md). Planning a kickoff? Use the [project kickoff checklist](../../resources/checklists/project-kickoff.md).
 
 ### Obsidian version (optional)
 
@@ -103,4 +103,4 @@ Read the core four first if you have a live project. The optional chapters answe
 
 ## Next skill
 
-[Git](../git/) — put the project source under version control.
+[Self-management](../self-management/) — run your own execution. Use [Git](../git/) later only if the project produces files you need to version.

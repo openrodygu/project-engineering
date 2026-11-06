@@ -9,6 +9,9 @@ Notable changes to this repo. Dates are `YYYY-MM-DD`.
 - Make the project management and self-management quick starts work in a browser or any notes app.
 - Add a download-only (no Git) path and ready-to-open vault ZIPs.
 - Add a zero-trust path for installing the plugins yourself.
+- Correct the download contents, per-vault plugin count, hidden-file steps, and ZIP extraction notes.
+- Point project management to self-management next and surface the kickoff checklist.
+- Align the shared-vault folder names across the personal vault docs.
 - Add five-minute options and tool-neutral wording to the quick starts.
 - Put project management and self-management first in the recommended order.
 - Reorder START-HERE so browser readers reach a skill before setup.

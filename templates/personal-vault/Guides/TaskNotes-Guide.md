@@ -246,7 +246,7 @@ Fifteen to thirty minutes is enough. See [[Self-Management-101]] for the full ch
 
 When a personal task becomes team work:
 
-1. Open the shared vault (`../team-vault`).
+1. Open the shared vault (`../pm-vault`).
 2. Create a matching task in **Example Project**.
 3. Set status, priority, assignee, and dates.
 4. Add a plain-text reference in your personal task:
